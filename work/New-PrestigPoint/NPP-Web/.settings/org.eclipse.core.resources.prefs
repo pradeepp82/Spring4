@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/artek/configuration/AppInitilizer.java=UTF-8
+encoding//src/main/java/com/artek/configuration/ApplicationConfig.java=UTF-8
+encoding//src/main/java/com/artek/configuration/HibernateConfiguration.java=UTF-8
+encoding//src/main/java/com/artek/configuration/TilesDefinitionsConfig.java=UTF-8
+encoding//src/main/java/com/artek/controller=UTF-8
+encoding//src/main/java/com/artek/interceptor=UTF-8
+encoding//src/main/java/com/artek/validation=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/CourseEdit.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/CourseForm.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/EmpRegister.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/LocalFile.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/Registration.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/Result.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/WebService.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/login.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/layout/baseLayout.jsp=UTF-8
